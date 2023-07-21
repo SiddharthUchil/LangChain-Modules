@@ -1,6 +1,6 @@
 # Langchain Modules
 
-This repository contains course materials for learning the Langchain concepts. Below are the Jupyter notebooks used in the course with a brief description of each:
+This repository contains materials for learning the Langchain concepts. Below are the Jupyter notebooks used in the course with a brief description of each:
 
 - **models_basics.ipynb:** This notebook introduces the fundamental concepts of models in Langchain, detailing their structure and functionality.
 
